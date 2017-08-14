@@ -1,0 +1,5 @@
+c:\users\msi-intel\documents\visual studio 2017\Projects\Northwind.WebApi\Northwind.Core\bin\Debug\Northwind.Core.dll
+c:\users\msi-intel\documents\visual studio 2017\Projects\Northwind.WebApi\Northwind.Core\bin\Debug\Northwind.Core.pdb
+c:\users\msi-intel\documents\visual studio 2017\Projects\Northwind.WebApi\Northwind.Core\obj\Debug\Northwind.Core.csprojResolveAssemblyReference.cache
+c:\users\msi-intel\documents\visual studio 2017\Projects\Northwind.WebApi\Northwind.Core\obj\Debug\Northwind.Core.dll
+c:\users\msi-intel\documents\visual studio 2017\Projects\Northwind.WebApi\Northwind.Core\obj\Debug\Northwind.Core.pdb
